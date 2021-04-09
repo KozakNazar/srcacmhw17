@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 /********************************************************************
 * N.Kozak // Lviv'2020 // ACM // VLA implementation and use example *
-*    file: acmhw13.cpp                                              *
+*    file: acmhw15.cpp                                              *
 *********************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
